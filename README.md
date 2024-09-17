@@ -82,7 +82,7 @@ stack can do.
 
 ### Quick Start
 
-To get started using the Project CodeFlare stack, try this [end-to-end example](https://github.com/opendatahub-io/distributed-workloads/blob/main/Quick-Start.md)!
+To get started using the Project CodeFlare stack, try this [end-to-end example](https://github.com/opendatahub-io/distributed-workloads/tree/main/examples)!
 
 For more basic walk-throughs and in-depth tutorials, see our [demo notebooks](https://github.com/project-codeflare/codeflare-sdk/tree/main/demo-notebooks/guided-demos)!
 
